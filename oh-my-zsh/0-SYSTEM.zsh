@@ -4,11 +4,11 @@ alias c="clear"
 alias e="exit"
 
 # Editor for local and remote sessions
-if [[ -n $SSH_CONNECTION ]]; then
-  export EDITOR='vim'
-else
-  export EDITOR='geany'
-fi
+#if [[ -n $SSH_CONNECTION ]]; then
+export EDITOR='vim'
+#else
+#  export EDITOR='geany'
+#fi
 
 
 alias editor="$EDITOR"
