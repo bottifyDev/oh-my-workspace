@@ -2,8 +2,6 @@
 
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
-POWERLEVEL9K_MODE="nerdfont-complete"
-
 #ZSH_THEME="half-life"
 #ZSH_THEME="simple"
 #ZSH_THEME="af-magic"
