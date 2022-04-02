@@ -1,7 +1,8 @@
 ####  Основные команды ###############################################
 
 # OH MY WORKSPACE COMMANDS
-alias oh="help && cd $OMW"
+alias oh="cd $OMW && clear && help"
+alias oh-reload="oh-zsh-reload"
 alias help="clear && cat $OMW_DOCS_HELP"
 
 # OH MY ZSH COMANDS
