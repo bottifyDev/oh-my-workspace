@@ -10,6 +10,6 @@ POWERLEVEL9K_MODE="nerdfont-complete"
 #ZSH_THEME="cloud"
 
 # edit this
-
+alias oh-zsh-base16-theme="echo $BASE16_THEME"
 alias oh-zsh-theme="editor $ZSH_CUSTOM/4-THEME.zsh"
 
