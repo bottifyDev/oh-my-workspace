@@ -5,6 +5,8 @@ alias py="python"
 alias ga="git add --all"
 alias gc="git commit -m 'fast commit'"
 alias gp="git push -u origin main"
+alias repo="echo git@github.com:bottifyDev/"
+
 
 ### Nginx
 
