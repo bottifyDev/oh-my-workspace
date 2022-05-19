@@ -10,4 +10,7 @@ git clone git@github.com:bottifyDev/oh-my-workspace.git
 ln -s ~/oh-my-workspace/oh-my-zsh/zshrc.template ~/.zshrc
 # Ставим тему
 git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+gh repo clone zsh-users/zsh-syntax-highlighting ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+gh repo clone zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
 ```
