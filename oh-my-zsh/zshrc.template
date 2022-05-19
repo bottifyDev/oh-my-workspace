@@ -20,6 +20,7 @@ ZSH_CUSTOM=~/oh-my-workspace/oh-my-zsh
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
+source ~/.vimrc
 
 # User configuration
 
